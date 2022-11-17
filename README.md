@@ -14,5 +14,7 @@ set KUBECTL_PROMPT_SEPARATOR "/"
 With [fisherman]
 
 ```
-fisher add rnakamine/fish-kubectl-prompt
+fisher install rnakamine/fish-kubectl-prompt
 ```
+
+[fisherman]: https://github.com/fisherman/fisherman
